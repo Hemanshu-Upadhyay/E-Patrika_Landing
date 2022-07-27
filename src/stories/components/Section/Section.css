@@ -1,0 +1,29 @@
+.Navbar {
+    display: flex;
+    overflow: hidden;
+     position: relative; 
+    z-index: 30;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    color: #ffffff;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #094794;
+    width: 100%;
+    height: 6.5rem;
+  }
+  
+  .date {
+    position: absolute;
+    left: 70px;
+    font-size: small;
+    font-weight: bold;
+  }
+  
+  .Navbar-logo {
+    position: absolute;
+    right: 33.5rem;
+    top: 16px;
+    width: 250px;
+  }
+  

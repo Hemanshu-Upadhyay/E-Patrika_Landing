@@ -1,0 +1,45 @@
+.navbar {
+  position: relative;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: bold;
+  justify-content: space-between;
+  align-items: center;
+  /* width: 98%; */
+  text-align: center;
+  height: 3rem;
+  background: #053065;
+}
+
+.hamburger {
+  margin-top: 0.9rem;
+  left: 1.3%;
+  position: absolute;
+}
+
+.menu-items {
+  display: flex;
+  margin-left: 1rem;
+  justify-content: center;
+}
+
+.menu {
+  position: relative;
+  text-decoration: none;
+  margin: 3px;
+  top: 70%;
+  font-size: 14.9px;
+  margin-left: 1rem;
+  color: #ffffff;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.search-icon {
+  position: absolute;
+  right: 3%;
+  top: 0.7rem;
+}

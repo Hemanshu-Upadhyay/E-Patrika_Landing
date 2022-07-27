@@ -1,0 +1,12 @@
+.Text{
+    position: relative;
+    top: 40px;
+    color: red;
+}
+
+.Logo-image{
+    position: relative; 
+    right: 0;
+    left: 5px;
+    top: 12px;  
+}
